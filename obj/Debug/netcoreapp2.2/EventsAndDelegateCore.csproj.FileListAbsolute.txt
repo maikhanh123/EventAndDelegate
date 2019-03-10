@@ -1,0 +1,11 @@
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/bin/Debug/netcoreapp2.2/EventsAndDelegateCore.deps.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/bin/Debug/netcoreapp2.2/EventsAndDelegateCore.runtimeconfig.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/bin/Debug/netcoreapp2.2/EventsAndDelegateCore.runtimeconfig.dev.json
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/bin/Debug/netcoreapp2.2/EventsAndDelegateCore.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/bin/Debug/netcoreapp2.2/EventsAndDelegateCore.pdb
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.csprojAssemblyReference.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.csproj.CoreCompileInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.AssemblyInfoInputs.cache
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.AssemblyInfo.cs
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.dll
+/Users/maikhanh/Desktop/Desktop Icon/AspDotNetCore/Demo/C#7/dotnetcore/EventsAndDelegateCore/obj/Debug/netcoreapp2.2/EventsAndDelegateCore.pdb
